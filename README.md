@@ -62,7 +62,11 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - Total Supply:     100'000'000'000 $SCooBi
 
 - 🌐 Website — Under construction
-- 📧 Telegram — Join Group
-- (https://t.me/scoobidoge)🕊 Twitter — View Twitter Account
-- (https://twitter.com/scoobidoge)📈 Dextool — Not yet available 
-- 🔎 Etherscan — Not yet available
+- 🔐 Liq Lock — Verify it here (https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
+- 🏛 Info Pair — View here (https://info.uniswap.org/pair/0xbf0F79932e3e136A0A948Fd6A8aa4CA8cCfe0EE1) 
+- 🦄 Uniswap — Swap here (https://app.uniswap.org/#/swap?outputCurrency=0x06a87f6afec4a739c367bef69eefe383d27106bd) 
+- 🐼 Github — View our Hub (https://github.com/Scoobi-doge/Scoobi-doge.github.io) 
+- 📧 Telegram — Join Group (https://t.me/scoobidoge) 
+- 🕊 Twitter — View Twitter Account (https://twitter.com/scoobidoge) 
+- 📈 Dextool — View here (https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
+- 🔎 Etherscan — View contract (https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
