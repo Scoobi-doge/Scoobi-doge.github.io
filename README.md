@@ -1,3 +1,4 @@
+### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) | 
 # ⚓ The Scoobi-Doge Protocol Meme Governance or How to seek for the best
 
 As a matter of fact, institutions and companies hierarchy and decision-making processes are often vertically designed. Sometimes, in order to innovate governance and leadership needs to be challenged. A meme governance token is based upon a decentralized voting system in which every individual could influence a specific ecosystem.
