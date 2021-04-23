@@ -56,12 +56,15 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 ## ✨ Token Information:
 
-- Token Name:     Scoobi-Doge
-- Token Symbol:  $SCooBi
+- Token Name:       Scoobi-Doge
+- Token Symbol:     $SCooBi
 - Token Type:       ERC20 ETHEREUM
 - Total Supply:     100'000'000'000 $SCooBi
+- Circ Supply:       99'000'000'000 $SCooBi
 
-- 🌐 Website — Under construction
+- 🌐 Website — View here (https://scoobidoge.carrd.co/) (thanks to Chase)
+- 🎓 Vote — Enter Space (https://snapshot.org/#/scoobi.eth)
+- 🏢 Discord — Enter the server (https://discord.gg/zdnWZgPTEH)
 - 🔐 Liq Lock — Verify it here (https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🏛 Info Pair — View here (https://info.uniswap.org/pair/0xbf0F79932e3e136A0A948Fd6A8aa4CA8cCfe0EE1) 
 - 🦄 Uniswap — Swap here (https://app.uniswap.org/#/swap?outputCurrency=0x06a87f6afec4a739c367bef69eefe383d27106bd) 
