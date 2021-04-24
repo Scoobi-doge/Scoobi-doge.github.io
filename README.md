@@ -3,24 +3,24 @@
 ### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
 ...The point is to participate 🤝
 
-# ⚓ The Scoobi-Doge Protocol Meme Governance or How to seek for the best
+# ⚓ The Scoobi-Doge Protocol Comic NFT MEME Governance or How to seek for the best
 
-Institutions and companies' hierarchy and decision-making processes are often vertically designed. Sometimes, to innovate governance and leadership need to be challenged. A meme governance token is based upon a decentralized voting system in which every individual could influence a specific ecosystem.
+Institutions and companies' hierarchy and decision-making processes are often vertically designed. Sometimes, to innovate governance and leadership need to be challenged. A comic meme governance token is based upon a decentralized voting system in which every individual could influence a specific ecosystem, our particularity is that you can control the direction of the Comic's story.
 
-## 📜 Why Blockchain Meme Governance Matters
+## 📜 Why Blockchain Comic Meme Governance Matters
 
 Like evolution conveys a certain level of adaptation to nature, the most successful blockchains are the ones that can best adapt to their environments. Assuming these dynamic systems need to evolve to survive, initial design and adaptability are both crucial, and over a long period, the adaptive mechanisms of evolution settle the baseline for the ecosystem plasticity. Yet in the decentralized world,  little research has dug into decentralized governance and the subsequent adaptive mechanisms are still poorly understood. Indeed, as the ecosystem gains attention in the community, its shape and stability would both be ultimately impacted. Similar to real life, some members of the community will be active and support the upcoming and running project at stake while others will patiently hold by locking their funds. Therefore, we do believe that modeling the governance by a dedicated token is crucial to innovate and create new interactions as well as expanding blockchains' role in our society. 
 
 ## ⚖️ Why Scoobi-Doge Protocol Meme Governance Matters
 
-Meme Governance tokens (MGT) are tokens that are created by developers to allow token holders to shape the future of the King of all Dogs DAO Foundation. 
+Comic Meme Governance tokens (CMGT) are tokens that are created by developers to allow token holders to shape the future of the King of all Dogs DAO Foundation. 
 
-Scoobi-Doge token holders can influence decisions concerning the project by proposing or deciding on new feature proposals and even changing the governance system itself.
+Scoobi-Doge token holders can influence decisions concerning the project and the comic story by proposing or deciding on new feature proposals and even changing the governance system itself.
 
-In most cases, the modification of a protocol, vetted and then voted through on-chain Scoobi-Doge protocol governance can be accessed by using GT that are automatically linked due to smart contracts.
+In most cases, the modification of a protocol, vetted and then voted through on-chain Scoobi-Doge protocol governance can be accessed by using CMGT that are automatically linked due to smart contracts.
 The project team maintenance task will remain in any case to apply the changes or hire someone who will.
 
-Scoobi-Doge token allows its holders to vote on decisions about the decentralized finance (DeFi) protocol that the decentralized stablecoin DAI runs on.
+Scoobi-Doge token allows its holders to vote on decisions about the Comic story or about decentralized finance (DeFi) protocols or anything related to the project developments and operations.
 
 
 ## 🤳 Tik Tok Marketing
