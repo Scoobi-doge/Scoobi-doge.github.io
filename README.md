@@ -45,14 +45,14 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 🎟 No Pre-sale. Direct listing.
 
-✅ Etherscan submission
-✅ Coingecko submission
-✅ Coinmarketcap submission
-✅ Blockfolio submission
-✅ Tik Tok Filter in progress
-✅ Comics design in progress
-⌛ Instagram campaign in planning
-⌛ NFT Contract on StandBy
+- ✅ Etherscan submission
+- ✅ Coingecko submission
+- ✅ Coinmarketcap submission
+- ✅ Blockfolio submission
+- ✅ Tik Tok Filter in progress
+- ✅ Comics design in progress
+- ⌛ Instagram campaign in planning
+- ⌛ NFT Contract on StandBy
 
 ## 🤑 Tokenomics:
 
