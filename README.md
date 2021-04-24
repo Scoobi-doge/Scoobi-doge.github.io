@@ -1,3 +1,5 @@
+![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/ressources/Hero-Scoobi.jpg)
+
 ### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
 ...The point is to participate 🤝
 
@@ -56,8 +58,8 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 ## 🤑 Tokenomics:
 
-![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/Tokenomics.png)
-. Thanks to MnK
+![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/ressources/Tokenomics.png)
+> Thanks to MnK
 
 - 🦄 Uniswap Liquidity: 99'000'000'000 SCooBi (99%)
 - ⚙️ Development and Operations: 1'000'000'000 SCooBi (1%) Vested monthly 1/20 (50M).
@@ -88,10 +90,13 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - 📈 Dextool — [View here](https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🔎 Etherscan — [View contract](https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
 
-## 🗓️ Ongoing Events 🏅
+## 🗓️  Ongoing Events 🏅
 
 - DESIGNER for the **NFT contest** Prize Pool 32M : [View details](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md)
 
 - WRITERS for the **SHORT STORY Tournament** Prize Pool 8M : [View details](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md)
 
 ... the important thing is to take part in the life of our community ❤️
+
+## 💰 How to Buy SCoobi
+![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/how-to-buy-Scoobi.jpg)
