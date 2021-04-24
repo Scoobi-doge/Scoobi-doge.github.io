@@ -1,4 +1,4 @@
-![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/ressources/Hero-Scoobi.jpg)
+![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Hero-Scoobi.jpg)
 
 ### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
 ...The point is to participate 🤝
@@ -58,7 +58,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 ## 🤑 Tokenomics:
 
-![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/ressources/Tokenomics.png)
+![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Tokenomics.png)
 > Thanks to MnK
 
 - 🦄 Uniswap Liquidity: 99'000'000'000 SCooBi (99%)
@@ -99,4 +99,4 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 ... the important thing is to take part in the life of our community ❤️
 
 ## 💰 How to Buy SCoobi
-![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/how-to-buy-Scoobi.jpg)
+![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/how-to-buy-Scoobi.jpg)
