@@ -1,4 +1,6 @@
-### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) | 
+### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) 
+...The point is to participate 🤝
+
 # ⚓ The Scoobi-Doge Protocol Meme Governance or How to seek for the best
 
 Institutions and companies' hierarchy and decision-making processes are often vertically designed. Sometimes, to innovate governance and leadership need to be challenged. A meme governance token is based upon a decentralized voting system in which every individual could influence a specific ecosystem.
@@ -81,4 +83,4 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 - WRITERS for the **SHORT STORY Tournament** Prize Pool 8M : https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md
 
-...The point is to participate ;)
+... the important thing is to take part in the life of our community ❤️
