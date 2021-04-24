@@ -17,7 +17,7 @@ Let's have more doggy fun stuff. SCooBi Doge needs you to write the stories for 
 
 1. Your short story
 
-### Entry Fee 2M $SCooBi
+### Entry Buy-In 2M $SCooBi
 Address for subscription :  0xa9b8cd4c971c75d6946dCC57c5f5ddC6ED9C5AFb
 
 **Guaranteed Prize pool - 8,1M $SCooBi**
