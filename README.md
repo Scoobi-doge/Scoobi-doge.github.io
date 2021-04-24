@@ -1,4 +1,4 @@
-### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) 
+### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
 ...The point is to participate 🤝
 
 # ⚓ The Scoobi-Doge Protocol Meme Governance or How to seek for the best
