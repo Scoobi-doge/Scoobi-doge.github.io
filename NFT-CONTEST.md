@@ -3,9 +3,12 @@
 # 🐕 SCooBi Doge  🐶
 
 
-
 **Fellow SCooBi Dogees !**
 Let's have some fun like real dogs do. SCooBi Doge needs a design for its NFTs. 
+
+---
+### Try your chance to get published into an NFT 🤞 🍀
+---
 
 **The Objectif:** Create a set of artwork that has special characteristics as it should be designed as a comic page (see examples on the image below) into a square format. Min. resolution should be 1000px / 1000px 
 
@@ -24,9 +27,9 @@ Let's have some fun like real dogs do. SCooBi Doge needs a design for its NFTs.
 **Deadline:** 30.04.2021 23:59 UTC
 
 **Voting system:**
-- 1st round: Top 10 works are determined by the jury and early birds.
+- 1st round: Top 10 works are determined by Community members.
 - Final round Community members will vote on final through discord. 
 
-**Disclaimer:** On all controversial issues, the final decision will be made by the devs.
+**Disclaimer:** On all controversial issues, first the jury and early birds decide, and in extremely difficult cases the final decision will be made by the devs.
 
 ![](https://i.imgur.com/xSzuRQ6.jpg)
