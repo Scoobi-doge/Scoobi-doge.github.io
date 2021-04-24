@@ -56,6 +56,9 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 ## 🤑 Tokenomics:
 
+![](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/Tokenomics.png)
+. Thanks to MnK
+
 - 🦄 Uniswap Liquidity: 99'000'000'000 SCooBi (99%)
 - ⚙️ Development and Operations: 1'000'000'000 SCooBi (1%) Vested monthly 1/20 (50M).
 - 🔒 Liquidity Lock: 24 month
@@ -73,22 +76,22 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - Total Supply:     100'000'000'000 $SCooBi
 - Circ Supply:       99'000'000'000 $SCooBi
 
-- 🌐 Website — View here (https://scoobidoge.carrd.co/) (thanks to Chase)
-- 🎓 Vote — Enter Space (https://snapshot.org/#/scoobi.eth)
-- 🏢 Discord — Enter the server (https://discord.gg/zdnWZgPTEH)
-- 🔐 Liq Lock — Verify it here (https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
-- 🏛 Info Pair — View here (https://info.uniswap.org/pair/0xbf0F79932e3e136A0A948Fd6A8aa4CA8cCfe0EE1) 
-- 🦄 Uniswap — Swap here (https://app.uniswap.org/#/swap?outputCurrency=0x06a87f6afec4a739c367bef69eefe383d27106bd) 
-- 🐼 Github — View our Hub (https://github.com/Scoobi-doge/Scoobi-doge.github.io) 
-- 📧 Telegram — Join Group (https://t.me/scoobidoge) 
-- 🕊 Twitter — View Twitter Account (https://twitter.com/scoobidoge) 
-- 📈 Dextool — View here (https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
-- 🔎 Etherscan — View contract (https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
+- 🌐 Website — [View here](https://scoobidoge.carrd.co/) (thanks to Chase)
+- 🎓 Vote — [Enter Space](https://snapshot.org/#/scoobi.eth)
+- 🏢 Discord — [Enter the server](https://discord.gg/zdnWZgPTEH)
+- 🔐 Liq Lock — [Verify it here](https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
+- 🏛 Info Pair — [View here](https://info.uniswap.org/pair/0xbf0F79932e3e136A0A948Fd6A8aa4CA8cCfe0EE1) 
+- 🦄 Uniswap — [Swap here](https://app.uniswap.org/#/swap?outputCurrency=0x06a87f6afec4a739c367bef69eefe383d27106bd) 
+- 🐼 Github — [View our Hub](https://github.com/Scoobi-doge/Scoobi-doge.github.io) 
+- 📧 Telegram — [Join Group](https://t.me/scoobidoge) 
+- 🕊 Twitter — [View Twitter Account](https://twitter.com/scoobidoge) 
+- 📈 Dextool — [View here](https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
+- 🔎 Etherscan — [View contract](https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
 
 ## 🗓️ Ongoing Events 🏅
 
-- DESIGNER for the **NFT contest** Prize Pool 32M : https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md
+- DESIGNER for the **NFT contest** Prize Pool 32M : [View details](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md)
 
-- WRITERS for the **SHORT STORY Tournament** Prize Pool 8M : https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md
+- WRITERS for the **SHORT STORY Tournament** Prize Pool 8M : [View details](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md)
 
 ... the important thing is to take part in the life of our community ❤️
