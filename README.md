@@ -39,12 +39,20 @@ The goal is to gradually build an ecosystem controlled through governance by $SC
 $SCooBi will be available both, first on Ethereum and then Binance Smart Chain Mainnet. 
 
 
-## +++ TOKEN LAUNCH BETWEEN NOW AND 23:59 UTC April 21 +++
+## +++ TOKEN LAUNCH SUCCESSFULLY Apr-22-2021 01:06:37 AM UTC +++
 
-🔍 Token supply: 100B $SCooBi.
+🔍 Token supply: 100 B $SCooBi.
 
 🎟 No Pre-sale. Direct listing.
 
+✅ Etherscan submission
+✅ Coingecko submission
+✅ Coinmarketcap submission
+✅ Blockfolio submission
+✅ Tik Tok Filter in progress
+✅ Comics design in progress
+⌛ Instagram campaign in planning
+⌛ NFT Contract on StandBy
 
 ## 🤑 Tokenomics:
 
