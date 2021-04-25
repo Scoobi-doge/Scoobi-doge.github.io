@@ -65,7 +65,10 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - ⚙️ Development and Operations: 1'000'000'000 SCooBi (1%) Vested monthly 1/20 (50M).
 - 🔒 Liquidity Lock: 24 month
 
-⏰ **Roadmap?** Q2 2021 Comic release, Tik tok marketing, Submission coingecko, and coinmarketcap, Submission to different CEX, NFT Contract Release.
+## ⏰ Roadmap? :
+
+![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.0.png)
+
 
 ⚙️ **Development and Operations?** Finish the creation of the Comic with at least 5 acts and 3 famous crypto personalities caricature, BONESNFT drop deployment, Stickers, and MEME contest, NFT Art Contest...
 
