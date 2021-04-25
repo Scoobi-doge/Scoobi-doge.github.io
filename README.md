@@ -34,7 +34,7 @@ TikTok ads start at $10 per CPM (cost per 1000 views). Also, they require you to
 
 ## 🐶 What is $SCooBi? 
 
-$SCooBi from "Scoobi-Doge" is a Meme DAO building the ultimate dApps ecosystem. A real meme governance token is based upon a decentralized voting system in which every individual can influence the ecosystem. The ecosystem will be powered by the utility token (codename $BONES 🤫) that will be minted only through staking $SCooBi and $SCooBi LPs. Soon, serveral NFTs named $SCooBi NFT might be issued.
+$SCooBi from "Scoobi-Doge" is a Meme DAO building the ultimate dApps ecosystem. A real meme governance token is based upon a decentralized voting system in which every individual can influence the ecosystem. The ecosystem will be powered by the utility token that will be minted only through staking $SCooBi and $SCooBi LPs. Soon, serveral NFTs named $SCooBi NFT might be issued.
 
 The goal is to gradually build an ecosystem controlled through governance by $SCooBi holders, providing a broad spectrum of coherent defi services to bring stable growth and over time value increase.
 
