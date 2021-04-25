@@ -65,7 +65,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - ⚙️ Development and Operations: 1'000'000'000 SCooBi (1%) Vested monthly 1/20 (50M).
 - 🔒 Liquidity Lock: 24 month
 
-## ⏰ Roadmap? :
+## ⏰ Roadmap :
 
 ![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.0.png)
 
