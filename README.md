@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Hero-Scoobi.png)
+![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/scoobi2-hero-large-1200px.png)
 
 ### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
 ...The point is to participate 🤝
@@ -22,6 +22,9 @@ The project team maintenance task will remain in any case to apply the changes o
 
 Scoobi-Doge token allows its holders to vote on decisions about the Comic story or about decentralized finance (DeFi) protocols or anything related to the project developments and operations.
 
+<p align="center">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/scoobi-doge-logo-transparent-256.png">
+</p>
 
 ## 🤳 Tik Tok Marketing
 
@@ -58,17 +61,19 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 ## 🤑 Tokenomics:
 
-![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Tokenomics.png)
-> Thanks to MnK
-
 - 🦄 Uniswap Liquidity: 99'000'000'000 SCooBi (99%)
 - ⚙️ Development and Operations: 1'000'000'000 SCooBi (1%) Vested monthly 1/20 (50M).
 - 🔒 Liquidity Lock: 24 month
 
+<p align="center">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Tokenomics.png">
+</p>
+
 ## ⏰ Roadmap :
 
-![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.0.png)
-
+<p align="center">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.0.png">
+</p>
 
 ⚙️ **Development and Operations?** Finish the creation of the Comic with at least 5 acts and 3 famous crypto personalities caricature, BONESNFT drop deployment, Stickers, and MEME contest, NFT Art Contest...
 
@@ -102,4 +107,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 ... the important thing is to take part in the life of our community ❤️
 
 ## 💰 How to Buy SCoobi
-![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/how-to-buy-Scoobi.jpg)
+
+<p align="center">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/how-to-buy-Scoobi.jpg">
+</p>
