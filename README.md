@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Hero-Scoobi.jpg)
+![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Hero-Scoobi.png)
 
 ### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
 ...The point is to participate 🤝
