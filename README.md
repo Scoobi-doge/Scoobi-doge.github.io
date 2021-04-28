@@ -86,7 +86,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - Total Supply:     100'000'000'000 $SCooBi
 - Circ Supply:       99'000'000'000 $SCooBi
 
-- 🌐 Website — [View here](https://scoobidoge.carrd.co/) (thanks to Chase)
+- 🌐 Website — [View here](https://scoobidoge.com/) (thanks to Chase)
 - 🎓 Vote — [Enter Space](https://snapshot.org/#/scoobi.eth)
 - 🏢 Discord — [Enter the server](https://discord.gg/zdnWZgPTEH)
 - 🔐 Liq Lock — [Verify it here](https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
