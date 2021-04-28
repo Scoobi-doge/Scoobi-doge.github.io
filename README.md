@@ -32,7 +32,7 @@ There is a new TikTok trend aiming to get the meme-based cryptocurrency’s pric
 James Galante began urging his followers to buy Dogecoin in June, claiming they could “all get rich” if enough viewers invested $25 in the coin. Since then, one of his videos garnered more than 537,000 views, search interest skyrocketed, the challenge began trending on Twitter, and the coin briefly hit its highest level since October 2018.
 
 “Let’s all get rich!” Galante said in a July 2 video. “Dogecoin is practically worthless. There are 800 million TikTok users. Once it hits $1, you’ll have $10,000. Tell everyone you know!”
-TikTok ads start at $10 per CPM (cost per 1000 views). Also, they require you to spend a minimum of $500 on a campaign. So we aren’t going to use formal TikTok ads for a cheap and cheerful viral marketing campaign. We are planning to put 50k USD diluted in 4 weeks.
+TikTok ads start at $10 per CPM (cost per 1000 views). Also, they require you to spend a minimum of $500 on a campaign. So we aren’t going to use formal TikTok ads for a cheap and cheerful viral marketing campaign. We are planning to put 500 USD diluted on 2 weeks.
 
 
 ## 🐶 What is $SCooBi? 
