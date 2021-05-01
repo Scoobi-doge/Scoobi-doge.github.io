@@ -24,7 +24,7 @@ Let's have some fun like real dogs do. SCooBi Doge needs a design for its NFTs.
 - 3rd place • 4M $SCooBi 
 - 4th - 10th • 2M $SCooBi each 
 
-**Deadline:** 30.04.2021 23:59 UTC
+**Deadline:** 16.05.2021 23:59 UTC
 
 **Voting system:**
 - 1st round: Top 10 works are determined by Community members.
