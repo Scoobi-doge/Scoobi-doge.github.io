@@ -87,11 +87,11 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - Circ Supply:       99'000'000'000 $SCooBi
 
 - 🌐 Website — [View here](https://scoobidoge.com/) (thanks to Chase)
-- 🐳 OpenSea — [See our NFT Collection](https://opensea.io/collection/scoobi-doge-the-choosen-one-1)
+- 🐳 OpenSea — [See our NFT Collection](https://opensea.io/collection/scoobi-doge-the-chosen-one)
 - 📜 Medium — [Read Blog posts](https://scoobidoge.medium.com/)
 - 🎥 Youtube — [View channel](https://www.youtube.com/channel/UCEEHWC4ZHKLWQLvIWTEJUNg)
 - 🤳 Tik Tok — [Check it out](https://www.tiktok.com/@scoobidoge)
-- 🏰 Foundation — [Have a look]https://foundation.app/scoobidoge)
+- 🏰 Foundation — [Have a look](https://foundation.app/scoobidoge)
 - 🏞 Waterfall Marketcap — [watch it here](https://t.me/joinchat/GlKYX4iBKpRiMDQ1)
 - 🤖 Reddit — [View group](https://www.reddit.com/r/scoobidoge)
 - 🎓 Vote — [Enter Space](https://snapshot.org/#/scoobi.eth)
