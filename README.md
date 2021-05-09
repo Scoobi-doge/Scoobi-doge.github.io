@@ -23,7 +23,7 @@ The project team maintenance task will remain in any case to apply the changes o
 Scoobi-Doge token allows its holders to vote on decisions about the Comic story or about decentralized finance (DeFi) protocols or anything related to the project developments and operations.
 
 <p align="center">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/scoobi-doge-logo-transparent-256.png">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/scoobi-blinking-eyes.gif">
 </p>
 
 ## 🤳 Tik Tok Marketing
