@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/scoobi2-hero-large-1200px.png)
 
-### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) |
+### | [NFT CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/NFT-CONTEST.md) |  [SHORT STORY TOURNAMENT](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/SHORT-STORY-TOURNAMENT.md) | [RAP CONTEST](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/RAP-CONTEST.md) |  [TWERK CHALLENGE](https://github.com/Scoobi-doge/Scoobi-doge.github.io/blob/main/TWERK-CHALLENGE.md) |
 ...The point is to participate 🤝
 
 # ⚓ The Scoobi-Doge Protocol Comic NFT MEME Governance or How to seek for the best
@@ -86,6 +86,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - Total Supply:     100'000'000'000 $SCooBi
 - Circ Supply:       99'000'000'000 $SCooBi
 
+- 🌲 LinkTree — [Check Links](https://linktr.ee/scoobidoge)
 - 🌐 Website — [View here](https://scoobi.space/)
 - 🐳 OpenSea — [See our NFT Collection](https://opensea.io/collection/scoobi-doge-the-chosen-one)
 - 📜 Medium — [Read Blog posts](https://scoobidoge.medium.com/)
@@ -104,6 +105,9 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - 🕊 Twitter — [View Twitter Account](https://twitter.com/scoobidoge) 
 - 📈 Dextool — [View here](https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🔎 Etherscan — [View contract](https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
+- 🍏 Apple Music — [Check our songs](https://music.apple.com/us/artist/scoobi-doge/1566872824)
+- 📻 Spotify — [Stream it](https://open.spotify.com/artist/0cUxOmdBc2K7E0VPcL4n5B)
+
 
 ## 🗓️  Ongoing Events 🏅
 

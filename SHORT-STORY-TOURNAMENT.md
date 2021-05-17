@@ -28,7 +28,7 @@ Address for subscription :  0xa9b8cd4c971c75d6946dCC57c5f5ddC6ED9C5AFb
 - 3rd place • 1M $SCooBi (~12,5%)
 - 4th - 10th • 0,3M $SCooBi each (~4%)
 
-**Deadline:** 16.05.2021 23:59 UTC
+**Deadline:** 31.05.2021 23:59 UTC
 
 **Voting system:**
 
