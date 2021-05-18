@@ -99,14 +99,24 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - 🏢 Discord — [Enter the server](https://discord.gg/zdnWZgPTEH)
 - 🔐 Liq Lock — [Verify it here](https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🏛 Info Pair — [View here](https://info.uniswap.org/pair/0xbf0F79932e3e136A0A948Fd6A8aa4CA8cCfe0EE1) 
+- 🏛 Info Pair Pancakeswap — [View here](https://bscscan.com/token/0x8ea3edb9c7059a3edde4892c2621ef9ad09a241e)
+- 🏛 Info Pair Burgerswap — [View here](https://bscscan.com/address/0x8a77820eeaEb0964D23b56BF0e7D6AD2c2cBA108)
 - 🦄 Uniswap — [Swap here](https://app.uniswap.org/#/swap?outputCurrency=0x06a87f6afec4a739c367bef69eefe383d27106bd) 
+- 🦄 Add Uniswap LP — [Add Liquidity here](https://app.uniswap.org/#/add/v2/ETH/0x06a87F6aFEc4a739c367bEF69eEfE383D27106bd)
+- 🍰 Pancakeswap — [Swap here](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF)
+- 🍰 Add Pancakeswap LP — [Add Liquidity here](https://exchange.pancakeswap.finance/#/add/BNB/0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF)
+- 🍔 Burgerswap — [Swap here](https://ipfs.burgerswap.org/)
+- 🍔 Add Burgerswap LP — [Add Liquidity here](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF)
 - 🐼 Github — [View our Hub](https://github.com/Scoobi-doge/Scoobi-doge.github.io) 
 - 📧 Telegram — [Join Group](https://t.me/scoobidoge) 
 - 🕊 Twitter — [View Twitter Account](https://twitter.com/scoobidoge) 
 - 📈 Dextool — [View here](https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🔎 Etherscan — [View contract](https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
+- 🔎 BSCscan  — View contract (https://bscscan.com/address/0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF) 
 - 🍏 Apple Music — [Check our songs](https://music.apple.com/us/artist/scoobi-doge/1566872824)
 - 📻 Spotify — [Stream it](https://open.spotify.com/artist/0cUxOmdBc2K7E0VPcL4n5B)
+
+
 
 
 ## 🗓️  Ongoing Events 🏅
