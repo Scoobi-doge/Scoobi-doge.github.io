@@ -112,7 +112,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - 🕊 Twitter — [View Twitter Account](https://twitter.com/scoobidoge) 
 - 📈 Dextool — [View here](https://www.dextools.io/app/uniswap/pair-explorer/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🔎 Etherscan — [View contract](https://etherscan.io/token/0x06a87f6afec4a739c367bef69eefe383d27106bd)
-- 🔎 BSCscan  — View contract (https://bscscan.com/address/0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF) 
+- 🔎 BSCscan  — [View contract](https://bscscan.com/address/0x16dFEfF64c532370e8FAa73a7e94e2cCda9342EF) 
 - 🍏 Apple Music — [Check our songs](https://music.apple.com/us/artist/scoobi-doge/1566872824)
 - 📻 Spotify — [Stream it](https://open.spotify.com/artist/0cUxOmdBc2K7E0VPcL4n5B)
 
