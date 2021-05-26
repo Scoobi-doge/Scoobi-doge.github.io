@@ -15,7 +15,7 @@ Let's have some fun like real dogs do. SCooBi Doge needs you to do the best rap 
 **Submission process:** You should post your video on your social account (min 15s, max 1min) or send it to us by private message, when your freestyle is ready.
 
 **Your submission should contain the following:**
-1. Be sure to follow us on Twitter and Tik Tok 👉 @scoobidoge
+1. Be sure to follow us on Twitter, Telegram and Tik Tok 👉 @scoobidoge
 2. Video or Audio with your rap song (min 15s, max 1min)
 3. Tag us into the description of your video and add the hashtag #SCooBiRapChallenge
 4. Playback are not allowed ⛔
