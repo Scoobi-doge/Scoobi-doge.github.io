@@ -15,7 +15,11 @@ Let's have some fun like real dogs do. SCooBi Doge needs you to do the best twer
 **Submission process:** You should send us your twerk video by private message or by posting it on your social profile, when your application is ready. 
 
 **Your submission should contain the following:**
-1. Video of your twerk on one of the SCooBi song (min 15s)
+1. You twerking and saying at least one time Scoobi or Scoobi Doge (Counterfeit verification)
+2. Video of your twerk on one of the SCooBi song (min 15s)
+3. Be sure to follow us on Twitter, Telegram and Tik Tok 👉 @scoobidoge
+4. Tag us into the description of your video and add the hashtag #SCooBiTwerkChallenge
+
 
 **Prize pool - 21M $SCooBi in total** 
 - 1st place • 8M $SCooBi 
