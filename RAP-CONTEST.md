@@ -26,7 +26,7 @@ Let's have some fun like real dogs do. SCooBi Doge needs you to do the best rap 
 - 3rd place • 2M $SCooBi 
 - 4th - 10th • 1M $SCooBi each 
 
-**Deadline:** 31.05.2021 23:59 UTC
+**Deadline:** 31.06.2021 23:59 UTC
 
 **Voting system:**
 - 1st round: Top 10 works are determined by Community members.
