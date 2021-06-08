@@ -97,7 +97,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 - 🤖 Reddit — [View group](https://www.reddit.com/r/scoobidoge)
 - 🎓 Vote — [Enter Space](https://snapshot.org/#/scoobi.eth)
 - 🏢 Discord — [Enter the server](https://discord.gg/zdnWZgPTEH)
-- 🔐 Liq Lock — [Verify it here](https://unicrypt.network/amm/uni/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
+- 🔐 Liq Lock — [Verify it here](https://app.unicrypt.network/amm/uni-v2/pair/0xbf0f79932e3e136a0a948fd6a8aa4ca8ccfe0ee1) 
 - 🏛 Info Pair — [View here](https://info.uniswap.org/pair/0xbf0F79932e3e136A0A948Fd6A8aa4CA8cCfe0EE1) 
 - 🏛 Info Pair Pancakeswap — [View here](https://bscscan.com/token/0x8ea3edb9c7059a3edde4892c2621ef9ad09a241e)
 - 🏛 Info Pair Burgerswap — [View here](https://bscscan.com/address/0x8a77820eeaEb0964D23b56BF0e7D6AD2c2cBA108)
