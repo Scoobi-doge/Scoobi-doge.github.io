@@ -73,6 +73,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 
 <p align="center">
 <img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.1.png">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-2.0.png">
 </p>
 
 ⚙️ **Development and Operations?** Finish the creation of the Comic with at least 5 acts and 3 famous crypto personalities caricature, BONESNFT drop deployment, Stickers, and MEME contest, NFT Art Contest...
