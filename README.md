@@ -72,7 +72,7 @@ $SCooBi will be available both, first on Ethereum and then Binance Smart Chain M
 ## ⏰ Roadmap :
 
 <p align="center">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.1.png">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-1.2.png">
 <img width="auto" height="auto" src="https://raw.githubusercontent.com/Scoobi-doge/Scoobi-doge.github.io/main/ressources/Roadmap-2.0.png">
 </p>
 
